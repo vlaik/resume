@@ -1,0 +1,31 @@
+.contents{
+    background-color: black;
+    position: relative;
+    z-index: 1;
+    
+    .testsx{
+        width: 100%;
+        height: 100%;
+        background-color: white;
+    }
+}
+.scroll{
+    position: absolute;
+    color: white;
+    width: 10%;
+    height: 40px;
+    background: none;
+    border: 1px solid white;
+    margin-top: -35%;
+    margin-left: 45%;   
+    &:hover{
+        color: rgb(117, 117, 117);
+    }
+}
+
+.names{
+    position: absolute;
+    color: white;
+    margin-top: -45%;
+    margin-left: 35%;
+}

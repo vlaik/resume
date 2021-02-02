@@ -1,0 +1,19 @@
+.mainSkill{
+    display: grid;
+    grid-template-columns: 0.5fr 3fr;
+    .skillMenuOpen{
+    margin-top: 100%;
+    margin-left: 5%;
+    button{
+        background: none;
+        border: 1px solid black;
+        &:focus{
+            outline: none;
+        }
+        &:hover{
+            border: 1.7px solid black;
+        }
+    }
+   
+    }
+}

@@ -1,0 +1,59 @@
+.main{
+    background-color: black;
+    height: 920px ;
+    .city{
+        margin-top: 56%;
+        width: 100%;
+
+    }
+    .line{
+        height: 100%;
+        position: relative;
+        margin-top: -71%;
+        margin-left: 49.7%;
+        z-index: 1;
+    }
+    .first{
+        position: relative;
+        margin-top: -120%;
+        margin-left: -1%;
+        z-index: 10;
+    }
+    .two{
+        position: relative;
+        margin-top: -100%;
+        margin-left: -1.8%;
+        z-index: 10;
+    }
+    .sec{
+        position: relative;
+        margin-top: -73%;
+        margin-left: -2.5%;
+        z-index: 10;
+    }
+}
+
+.textContent{
+    position: relative;
+    margin-top: -62.5%;
+    margin-left: 38%;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+    p{
+        margin-left: -35%;
+        color: rgb(183, 183, 183);
+    }
+    .info{
+        margin-top: 6%;
+        margin-left: 27%;
+    }
+    .info2{
+        margin-top: 8%;
+    }
+    .tex{
+        margin-left: -15%;
+    }
+    
+}
+
